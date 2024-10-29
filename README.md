@@ -1,3 +1,19 @@
+# Pokemon Go Card Game
+This app shows the winner of the pokemon game, comparing the experience points of two players' pokemon.
+
+# Technologies
+<ul>
+	<li>HTML: Used to create the page structure.</li>
+	<li>CSS: Used for styling and responsive design.</li>
+ 	<li>JAVASCRIPT: Used to create interactive web pages.</li>
+  <li>REACT: An open, efficient and flexible JavaScript library for building user interfaces.</li>
+</ul>
+
+# Preview:
+![pokemonGoCardGame](https://github.com/user-attachments/assets/fb6cdebc-bbf0-4c61-97df-4ae1b1080bad)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
